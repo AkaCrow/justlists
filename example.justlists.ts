@@ -91,7 +91,7 @@
         },
         {
             "symbol":"USDT",
-            "address":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "address":"TNcJX95T6wrdYP1418Enb32j32ae9wjuXB",
             "chainId":1,
             "decimals":6,
             "name":"Tether USD",
